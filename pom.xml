@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.sawaz</groupId>
-    <artifactId>ddd-spring-starter</artifactId>
+    <artifactId>layered-spring-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>ddd-spring-starter</name>
+    <name>layered-spring-starter</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
