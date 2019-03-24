@@ -1,7 +1,8 @@
-# ddd-spring-starter
-An empty spring project, using maven, which will be re-used to kick-start new projects without the overhead.
+# layered-spring-starter
+An empty spring project, using maven, which will be re-used to kick-start new projects without the overhead of creating the master project with all the submodules.
 
-Domain first!
+The layered architecture approach is beneficial as different parts of the application evolve at different rates and this will help control this.
+Finish domain first!
 
 When cloning this, don't forget to change:
  * artifact ID (in both parent and sub-modules),
